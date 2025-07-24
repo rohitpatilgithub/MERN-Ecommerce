@@ -2,10 +2,6 @@
 
 A full-stack e-commerce web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. This platform provides a complete online shopping experience with separate interfaces for customers and administrators.
 
-## 🚀 Live Demo
-
-[View Live Application](https://your-app-url.com) *(Update with your deployed URL)*
-
 ## 📋 Description
 
 This comprehensive e-commerce solution features two distinct user roles:
