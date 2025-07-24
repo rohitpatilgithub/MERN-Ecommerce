@@ -352,7 +352,6 @@ MERN-Ecommerce/
 │   ├── 📁 src/
 │   │   ├── 📁 components/ # Reusable components
 │   │   ├── 📁 pages/      # Page components
-│   │   ├── 📁 redux/      # Redux store & slices
 │   │   ├── 📁 utils/      # Helper functions
 │   │   ├── 📁 assets/     # Images, styles
 │   │   └── 📄 App.js      # Main App component
