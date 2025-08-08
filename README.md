@@ -309,7 +309,7 @@ The application will be available at:
 Email: admin@admin.com
 Password: 123456
 ```
-*⚠️ Change these credentials after first login*
+
 
 ## API Endpoints
 
